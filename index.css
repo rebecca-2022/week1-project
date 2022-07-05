@@ -28,6 +28,12 @@ nav a{
   top: 40px;
  justify-self: center;
 } */
+.menubar img{
+    height: 10px;
+}
+.menubar button{
+    background-color: #2549d3;
+}
 nav hr{
     position: relative;
     margin-top: 40px;
